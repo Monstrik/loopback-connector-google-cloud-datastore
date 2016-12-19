@@ -1,7 +1,7 @@
 {
   "name": "loopback-connector-google-cloud-datastore",
   "version": "0.0.1",
-  "description": "The official MongoDB connector for the LoopBack framework.",
+  "description": "Google Datastore connector for the LoopBack framework.",
   "engines": {
     "node": ">=4"
   },
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strongloop/loopback-connector-mongodb.git"
+    "url": "https://github.com/Monstrik/loopback-connector-google-cloud-datastore.git"
   },
   "keywords": [
     "connector",
